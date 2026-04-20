@@ -1,6 +1,11 @@
 # 🚀 React API Dashboard
 
-Aplicación web desarrollada en React que consume la API de Rick and Morty para mostrar un listado de personajes con funcionalidades modernas de frontend.
+🔗 Live Demo: (aquí va tu link de Vercel)
+💻 GitHub Repo: https://github.com/EVELYN2717/react-api-dashboard
+
+---
+
+Aplicación web desarrollada en React que consume una API externa, implementando buenas prácticas de arquitectura frontend.
 
 ## ✨ Características
 
